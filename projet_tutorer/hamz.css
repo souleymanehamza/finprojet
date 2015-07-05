@@ -1,0 +1,182 @@
+.entete{
+width:;
+height:200px;
+border:2px solid black;
+border-radius:10px;}
+.corps{
+width:;
+height:820px;
+border:2px solid black;
+border-radius:10px;
+padding:;
+margin:4px;
+background:#e8e0c0;
+top:3000;
+
+}
+.copr{
+width:170px;
+height:1230px;
+border:2px solid black;
+position:relative;
+left:-180;
+bottom:1830;
+border-radius:10px;
+background:orange;
+}
+.cop{
+background:orange;
+width:160px;
+height:1230px;
+border:2px solid black;
+position:relative;
+left:1000;
+bottom:2470;
+border-radius:10px;
+}
+.pied{
+height:200px;
+border:2px solid black;
+border-radius:10px;
+background:orange;
+color:black;
+}
+.ham{
+width:1000px;
+position:relative;
+left:180px;
+}
+.info{
+border:1px solid black;
+width:180px;
+height:190px;
+position:relative;
+left:800px;
+border-radius:10px;
+margin:4px;
+background-color:orange;
+text-align:center;
+bottom:830;
+font:black;
+}
+
+.inf{
+border:1px solid black;
+width:180px;
+height:190px;
+position:relative;
+left:800px;
+border-radius:10px;
+margin:4px;
+background-color:orange;
+text-align:center;
+bottom:830;
+PADDING:0px;}
+
+.recherche{
+position:relative;
+left:750px;
+top:30;
+
+}
+.ban { height: 200px; width: 999px; margin-right:auto;margin-left:auto; min-width: 400px;padding-right: auto;border-radius:10px;}
+
+#pa{
+width:600px;
+line-height:30px;
+float:;
+padding-top:20px;
+margin-left:100px;
+text-shadow:2px;
+overflow:;
+border:1px solid black;
+margin-top:170px;
+height:px;}
+#lien{
+width:800px;
+top:left;
+height:200px;
+margin-left:15;
+padding:10;
+}
+
+.ba{
+height:215px;
+width:215px;
+}
+.menu
+{
+  width: 800px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  position: absolute;
+  top: 250px; left: 50px;
+  text-align:center;
+
+} 
+
+.menu li
+{ 
+  float: left; width: 150px;
+  margin: 0; padding: 0; border: 0; 
+}
+
+.menu .smenu
+{
+  display: none;
+  list-style-type: none;
+  margin: 0; padding: 0; border: 0;
+} 
+
+.menu .smenu li
+{ 
+  float: none; 
+  margin: 0; padding: 0; border: 0;
+  width: 129px;
+  border-top: 1px solid transparent;
+  border-left: 1px solid red;
+  border-radius: 0px 10px 0px 10px;
+}
+
+.menu li a:link, .menu li a:visited
+{ 
+
+  display: block;
+  height: 25px;
+  color: white;
+  background: black;
+  margin: 2px;
+  padding: 4px 8px;
+  border-right: 1px solid #fff;
+  text-decoration: none;  
+  border-radius: 0px 10px 0px 10px;
+  font-size: 14px;   font-family: "Century Gothic",Calibri;
+}
+
+.menu li a:hover {
+background-color: #F2462E;
+line-height:35px; }
+
+.menu li a:active { background-color: #5F879D; }
+
+.menu .smenu li a:link,
+
+.menu .smenu li a:visited
+{
+  display: block;
+  color:white;
+  margin: 0;
+  border: 0;
+  text-decoration: none;
+  background: black;  
+} 
+
+.menu .smenu li a:hover
+{
+background-image: none;
+background-color: #F2462E;
+}
+
+.menu li:hover > .smenu { display: block; }

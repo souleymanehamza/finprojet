@@ -1,0 +1,146 @@
+.inf{
+position:absolute;
+left:500;
+bottom:1030;
+
+}
+div{
+width:1500px;}
+.pa{
+position:relative;
+top:60;
+height:40px;
+}
+.ham{
+position:relative;
+left:160;
+width:1050px;
+background:white;
+height:1100px;
+}
+.soul{
+height:150px;
+width:1032px;
+border-radius:10px;
+}
+.tete{
+border:2px solid black;
+height:150px;
+position:relative;
+left:0;
+margin:8px;
+border-radius:10px;
+top:70;}
+.recherche{
+position:relative;
+left:780;
+margin:8px;
+border:2px solid gold;
+top:70;
+}
+.menu{
+border:1px solid black;
+position:relative;
+left:-50;
+top:;
+width: 1100px;
+margin: 0;
+padding: 0;
+border: 0;
+position:center;
+top:70; 
+}
+.menu li {
+float:right; width: 130px;
+margin: 0; padding: 0; border: 0;}
+.menu li a:link, .menu li a:visited
+{
+display: block;
+height: 3%;
+color: white;
+background: 0099FF;
+margin: 0;
+padding: 4px 8px;
+border-right: 1px solid #fff;
+text-decoration: center;
+border-radius:10px;
+text-align:center;
+
+}
+.menu li a:hover {
+background-color:blue;
+background-position:15px bottom left;
+line-height:50px; }
+
+.menu li a:active { background-color: #5F879D; }
+.a{
+background:blue;
+text-align:center;
+border-radius:10px;
+}
+.smenu{
+display:none;
+margin:0;
+padding:0;
+border:0;}
+.menu .smenu li a:link
+
+.menu .smenu li a:visited
+{
+display: none;
+color: #FFF;
+margin: 0;
+border: 0;
+text-decoration: blue;
+background: transparent;
+} 
+
+.menu .sMenu li a:hover
+{
+background-image: none;
+background-color: #F2462E;
+display:block;
+}
+
+.menu li:hover > .sMenu { display: block; }
+.corps{
+width:130px;
+height:500px;
+border:2px solid black;
+bottom:2;
+position:relative;
+left:-118;
+background:0099FF;
+text-align:center;
+padding:10px;
+
+
+}
+.corp{
+width:890px;
+height:500px;
+border:2px solid black;
+position:relative;
+top:130;
+left:145;
+}
+#lien{
+width:800px;
+top:left;
+height:200px;
+margin-left:15;
+padding:10;
+}
+.pied{
+width:1005px;
+height:200px;
+border:2px solid black;
+border-radius:0px;
+background:grey;
+position:relative;
+top:125;
+left:30;
+}
+
+
+

@@ -1,0 +1,235 @@
+
+p.soulbyingq + p
+{
+   color:blue;
+   }
+ #body {
+    margin:15;
+	padding:0;
+	font-family:Geneva,verdana;
+	font-size:20px;
+	border-color:#A9A9A9;
+	text-align:center;
+	}
+.Arsenel-2
+{
+background:url(D:\IMAGE\Arsenel-2.gif) no-reapet top center;
+ height=72px;
+ color:red; color:red;
+  text-align:center;
+ line-height:68px;
+ font-size:68px;
+border:60px;
+ text-align:center;
+ 
+ 
+ }
+ #conteneur {
+ width:540px;
+ margin:o auto;
+ }
+ 
+ h1{
+ float:center;
+ }
+ table{
+ }
+ .bouton { text-align: center; display: block; padding: 30px;
+ border-radius: 15px;
+width: 100px; 
+/*background: -webkit-linear-gradient(-30deg,black,grey);
+background: -webkit-radial-gradient(center,circle,black 20%, red 75%); */
+-webkit-transition: -webkit-transform 0.3s, opacity 1s, background 1s, width 2s, height 1s;
+opacity: 0.6;
+background: red;
+
+}
+ .bouton:hover {
+-webkit-transform: rotate(360deg);
+opacity: 1;
+background: yellow;  
+width: 450px;
+height: 100px;
+}
+.bouton3 { text-align: center; display: block; padding: 30px;
+ border-radius: 15px;
+width: 100px; 
+/*background: -webkit-linear-gradient(-30deg,black,grey);
+background: -webkit-radial-gradient(center,circle,black 20%, red 75%); */
+-webkit-transition: -webkit-transform 0.3s, opacity 1s, background 1s, width 2s, height 1s;
+opacity: 0.6;
+background: blue;
+
+}
+.bouton3:hover {
+-webkit-transform: rotate(360deg);
+opacity: 1;
+background: red;  
+width: 450px;
+height: 110px; 
+}
+.bouton4 { text-align: center; display: block; padding: 30px;
+ border-radius: 15px;
+width: 100px; 
+/*background: -webkit-linear-gradient(-30deg,black,grey);
+background: -webkit-radial-gradient(center,circle,black 20%, red 75%); */
+-webkit-transition: -webkit-transform 0.3s, opacity 1s, background 1s, width 2s, height 1s;
+opacity: 0.6;
+background: yellow;
+
+}
+.bouton4:hover {
+-webkit-transform: rotate(3600deg);
+opacity: 1;
+background: red;  
+width: 450px;
+height: 110px; 
+}
+.bouton5 { text-align: center; display: block; padding: 30px;
+ border-radius: 15px;
+width: 100px; 
+/*background: -webkit-linear-gradient(-30deg,black,grey);
+background: -webkit-radial-gradient(center,circle,black 20%, red 75%); */
+-webkit-transition: -webkit-transform 0.3s, opacity 1s, background 1s, width 2s, height 1s;
+opacity: 0.6;
+background: #A9A9A9;
+
+}
+.bouton5:hover {
+-webkit-transform: rotate(360deg);
+opacity: 1;
+background: #A9A9A9;  
+width: 450px;
+height: 110px;
+}
+.bouton2{  text-align: center; display: block; padding: 30px;
+ border-radius: 15px;
+width: 100px; 
+/*background: -webkit-linear-gradient(-30deg,black,grey);
+background: -webkit-radial-gradient(center,circle,black 20%, red 75%); */
+-webkit-transition: -webkit-transform 0.3s, opacity 1s, background 10s, width 2s, height 1s;
+opacity: 0.6;
+background: #A9A9A9;
+}
+.bouton2:hover {
+-webkit-transform: rotate(360deg);
+opacity: 1;
+background: yellow;  
+width: 450px;
+height: 110px;
+}
+.sall { text-decoration:blink;
+}
+.soul
+{
+width:1000px;
+position:relative;
+left:170px;
+background:#FF00FF;
+}
+.ban { height: 160px; width: 900px; margin-right:auto;margin-left:auto; min-width: 400px;padding-right: auto;}
+
+
+section {
+border:5px;
+}
+.ham{
+position:left;
+left:230;
+}
+div
+{
+background-color:#FF00FF;
+background-clip:content-box;
+}
+.sall
+{
+border:green;
+background-color:#FF00FF;
+
+}
+.cool{
+background-color:orange;
+}
+.pied{
+border:1px solid black;
+width:1000px;
+border-raduis:10px;
+background:green;
+}
+.menu
+{
+  width: 800px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  position: absolute;
+  top: 120px; left: 50px;
+
+} 
+
+.menu li
+{ 
+  float: left; width: 150px;
+  margin: 0; padding: 0; border: 0; 
+}
+
+.menu .smenu
+{
+  display: none;
+  list-style-type: none;
+  margin: 0; padding: 0; border: 0;
+} 
+
+.menu .smenu li
+{ 
+  float: none; 
+  margin: 0; padding: 0; border: 0;
+  width: 129px;
+  border-top: 1px solid transparent;
+  border-left: 1px solid red;
+  border-radius: 0px 10px 0px 10px;
+}
+
+.menu li a:link, .menu li a:visited
+{ 
+
+  display: block;
+  height: 25px;
+  color: white;
+  background: orange;
+  margin: 2px;
+  padding: 4px 8px;
+  border-right: 1px solid #fff;
+  text-decoration: none;  
+  border-radius: 0px 10px 0px 10px;
+  font-size: 14px;   font-family: "Century Gothic",Calibri;
+}
+
+.menu li a:hover {
+background-color: #F2462E;
+line-height:35px; }
+
+.menu li a:active { background-color: #5F879D; }
+
+.menu .smenu li a:link,
+
+.menu .smenu li a:visited
+{
+  display: block;
+  color:white;
+  margin: 0;
+  border: 0;
+  text-decoration: none;
+  background: black;  
+} 
+
+.menu .smenu li a:hover
+{
+background-image: none;
+background-color: #F2462E;
+}
+
+.menu li:hover > .smenu { display: block; }
+

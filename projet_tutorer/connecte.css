@@ -1,0 +1,56 @@
+  :invalid {
+    background-color: #fee;
+	border:3px solid red;
+	
+  }
+
+  :valid {
+    background-color: aqua;
+    border-color: #5a5;
+  }
+ 
+
+  :required {
+    border-color: #f80;
+  }
+
+bod {
+ font-family:"trebuchet ms",sans-serif;
+ font-size:90%;
+ }
+f {
+ background-color:aqua;
+ padding:30px;
+ width:600px;
+ margin-left:auto;
+ margin-right:auto;
+ }
+ 
+ h2 {
+  text-align:center;
+  color:#05f;
+ }
+ 
+legend {
+ color:#DF3F3F;
+ font-weight:bold;
+ height:370px;
+ border-radius:10px;
+ }
+label {
+ margin-top:10px;
+ display:block;
+ }
+label.inline {
+ display:inline;
+ margin-right:50px;
+ }
+input, textarea, select, option {
+ background-color:;
+ }
+i
+select {
+ margin-top:10px;
+ }
+
+ 

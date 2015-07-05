@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
+      <title>Formulaire d'inscription</title>
+      <link rel="stylesheet" href="default.css">
+</head>
+<body>
+<form method="post" action="soul.php" name="form_inscription">
+  <h2> Formulaire d'inscription</h2>
+<div class="field">
+  <label for="nom">Nom:*</label>
+  <input name="nom" type="text" required="nom">
+</div>
+<div class="field">
+  <label for="prenom">Prenom:*</label>
+  <input name="prenom" type="text" required="prenom">
+</div>
+
+
+
+<div class="field">
+  <label for="email">Email:*</label>
+  <input name="email" type="email" required="email">
+</div>
+
+
+<div class="field">
+  <label for="password">Donnez un mot de passe:*</label>
+  <input name="password" type="password">
+</div>
+
+<div class="field">
+  <label for="tel">tel.portable:*</label>
+  <input name="tel" type="" required="tel">
+</div>
+<div id="info">
+<legend>* champ obligatoire</legend>
+</div>
+<div id="boutons">
+  <input name="retablir" value="Retablir" type="reset">
+  <input name="envoi" value="Envoyer" type="submit">
+</div>
+</form>
+</body></html>
